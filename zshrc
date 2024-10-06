@@ -9,7 +9,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
-ZSH_THEME="duellj"
+ZSH_THEME="duellj-custom"  # Keeping the duellj theme
+
 #ZSH_THEME="jonathan"
 #
 # Set list of themes to pick from when loading at random
@@ -101,4 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-# (starship themes activation) eval "$(starship init zsh)"
+
+# LS_COLORS adjustments for directories and symlinks
+export LS_COLORS="di=92:ln=33:fi=0"
+
