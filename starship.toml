@@ -1,3 +1,5 @@
+##not being used atm
+
 "$schema" = 'https://starship.rs/config-schema.json'
 
 format = """
