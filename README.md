@@ -1,3 +1,4 @@
-Heres how it looks
+## This repo is made for me to centralize all the custom styles i use inside my terminal. 
 
-![image](https://github.com/user-attachments/assets/e3f34cec-d866-4988-aefc-2fab12ec384d)
+- Currently using Kitty.
+- vaionote are the styles for my fedora and pc for my suse.
