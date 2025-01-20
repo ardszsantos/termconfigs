@@ -2,3 +2,6 @@
 
 - Currently using Kitty.
 - vaionote carries the styles for my fedora while pc is for my suse.
+
+
+[Hyprland]
