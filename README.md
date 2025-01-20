@@ -4,4 +4,4 @@
 - vaionote carries the styles for my fedora while pc is for my suse.
 
 
-[Hyprland]
+[Currently running openSUSE (main setup) and Hyprland (side setup)]
