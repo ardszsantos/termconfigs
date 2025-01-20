@@ -1,7 +1,6 @@
-## This repo is made for me to centralize all the custom styles i use inside my terminal. 
+## config dump
 
 - Currently using Kitty.
-- vaionote carries the styles for my fedora while pc is for my suse.
 
 
-[Currently running openSUSE (main setup) and Hyprland (side setup)]
+[running openSUSE (main setup) and Hyprland (side setup)]
