@@ -2,7 +2,7 @@
 
 - Currently using Kitty with zsh.
 
-(ohmyzsh theme:
-- rkj-repos)
+ohmyzsh theme:
+- rkj-repos
 
 
