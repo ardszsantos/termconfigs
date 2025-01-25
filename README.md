@@ -1,4 +1,4 @@
 ## config dump
 
-- Currently using Kitty.
+- Currently using Kitty and zsh (ohmyzsh -rkj-repos theme)
 
